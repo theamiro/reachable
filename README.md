@@ -1,4 +1,4 @@
-# Reachable Package
+# Simple Lightweight Reachable Package
 
 A Swift package for network reachability monitoring using Apple's `Network` framework, with support for RxSwift for reactive programming. This package supports both UIKit and SwiftUI, with compatibility for iOS 12 and above for UIKit and iOS 14 and above for SwiftUI
 
